@@ -7,3 +7,4 @@ work
 DEV
 Switched to a new branch 'dev'
 issue-101
+feature1
