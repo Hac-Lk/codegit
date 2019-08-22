@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks files.
 work
 DEV
+Switched to a new branch 'dev'
