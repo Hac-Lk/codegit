@@ -5,7 +5,11 @@ Git has a mutable index called stage.
 Git tracks files.
 Hello world!
 restaurant.
+dev.
+clone.
 
+set solve the problem.
+TESS.
 
 
 
